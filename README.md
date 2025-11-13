@@ -1,4 +1,7 @@
 # LabFisica General
+1. Miguel
+1. Tamayo
+1. Isrrael
 
 ## Como usar
 
