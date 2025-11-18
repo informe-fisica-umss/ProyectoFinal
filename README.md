@@ -1,6 +1,6 @@
 # LabFisica General
 1. Miguel
-1. Tamayo
+1. Tamayo Zurita A.J.D
 1. Isrrael
 
 ## Como usar
